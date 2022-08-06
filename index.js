@@ -401,7 +401,6 @@ class instance extends instance_skel {
 						id: 'Val',
 						default: rcpCmd.Default,
 						regex: '',
-						allowExpression: true
 					}
 				}
 				break
